@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "【伊東歌詞太郎】百火繚乱",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-14T15:22:57.359324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "百火繚乱",
+      "artist": "伊東歌詞太郎",
+      "has_synced": true,
+      "path": "select/01_百火繚乱_伊東歌詞太郎.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "百火繚乱",
+      "artist": "Kashitaro Ito",
+      "has_synced": true,
+      "path": "select/02_百火繚乱_Kashitaro_Ito.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "百火繚乱 - Hyakka Ryoran",
+      "artist": "Kashitaro Ito",
+      "has_synced": true,
+      "path": "select/03_百火繚乱_-_Hyakka_Ryoran_Kashitaro_Ito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "百火繚乱",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_百火繚乱_伊東歌詞太郎.txt"
+    }
+  ]
+}
